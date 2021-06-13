@@ -1,11 +1,11 @@
-Land, Jahr, Sonnenstunden am Tag, Glueck Score
-Deutschland, 2020, 6.3, 7.532
-Italien, 2019, 11.5, 8.678
-Spanien, 2020, 10.5, 8.634
-Norwegen, 2018, 5.4, 7.543
-Frankreich, 2019, 6.5, 7.565
-Irland, 2019, 5.3, 6.893
-England, 2017, 6.1.,7.435
-Schweiz, 2018, 7.4, 7.435
-Polen, 2020, 6.8, 5.674
-Bulgarien, 2017, 8.9, 7.452
+Land,  Sonnenstunden am Tag, Glueck Score
+Deutschland, 6.3, 7.532
+Italien, 11.5, 8.678
+Spanien, 10.5, 8.634
+Norwegen, 5.4, 7.543
+Frankreich, 6.5, 7.565
+Irland,  5.3, 6.893
+England, 6.1.,7.435
+Schweiz, 7.4, 7.435
+Polen, 6.8, 5.674
+Bulgarien, 8.9, 7.452
